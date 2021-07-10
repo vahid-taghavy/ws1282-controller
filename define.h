@@ -1,5 +1,6 @@
 #define TRUE	1
 #define FALSE	0
+
 #define normal  1
 #define revese  100
 #define   effect_add   10
